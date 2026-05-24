@@ -1,11 +1,23 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": [
     {
       "path": "Ultima Online/test_update.txt",
       "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/test_update.txt",
       "sha256": "9f2dbffa900662e75b2169e61aad46024637541daf95ec01f3554bb9a956295b",
       "size": 17
+    },
+    {
+      "path": "Ultima Online/mobtypes.txt",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/mobtypes.txt",
+      "sha256": "fb5610334ed68bea4e7d24154f4be23423d6ed0c97df7449983bcfc8e31d6eab",
+      "size": 43564
+    },
+    {
+      "path": "Ultima Online/Body.def",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Body.def",
+      "sha256": "767b49c50e038fd20b60f475cbefb8b6b22e9784d8483f17192e67ede24ce3f8",
+      "size": 4177
     }
   ]
 }
