@@ -1,3 +1,11 @@
 {
-  "version": "1.0.2"
+  "version": "1.0.1",
+  "files": [
+    {
+      "path": "Ultima Online/test_update.txt",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/test_update.txt",
+      "sha256": "868388ded72b40bf8745d6d76498bb4669dac4963a0a0c97fa1a193b3fda98a1",
+      "size": 16
+    }
+  ]
 }
