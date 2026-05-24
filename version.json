@@ -8,16 +8,16 @@
       "size": 17
     },
     {
-      "path": "Ultima Online/mobtypes.txt",
+           "path": "Ultima Online/mobtypes.txt",
       "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/mobtypes.txt",
-      "sha256": "fb5610334ed68bea4e7d24154f4be23423d6ed0c97df7449983bcfc8e31d6eab",
-      "size": 43564
+      "sha256": "ad811d53e11aee5e63ca14f62c992a2babfcbcaa603a1045e89663ee3f80fde0",
+      "size": 43577
     },
     {
-      "path": "Ultima Online/Body.def",
+     "path": "Ultima Online/Body.def",
       "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Body.def",
-      "sha256": "767b49c50e038fd20b60f475cbefb8b6b22e9784d8483f17192e67ede24ce3f8",
-      "size": 4177
+      "sha256": "e80e0733522cee5a7342f32e8f1720d7c68cd967046bb2dab53a4f46375a3632",
+      "size": 4190
     }
   ]
 }
