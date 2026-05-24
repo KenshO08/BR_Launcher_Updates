@@ -1,23 +1,155 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.5",
   "files": [
     {
-      "path": "Ultima Online/test_update.txt",
-      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/test_update.txt",
-      "sha256": "9f2dbffa900662e75b2169e61aad46024637541daf95ec01f3554bb9a956295b",
-      "size": 17
+      "path": "Ultima Online/anim2.idx",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/anim2.idx",
+      "sha256": "4553888bab43843e012234385ad3a66b574eb624d1f7c93fea5b518618cea294",
+      "size": 777000
     },
     {
-           "path": "Ultima Online/mobtypes.txt",
+      "path": "Ultima Online/anim2.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/anim2.mul",
+      "sha256": "c7cf60f8c4049f0afbc2c239f4e54a3cf3471ad51c60d2e131bf19e2fa29aa76",
+      "size": 163690829
+    },
+    {
+      "path": "Ultima Online/anim4.idx",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/anim4.idx",
+      "sha256": "58334245e8b176fef27bf96912aaf62ef4b9ee9fb28fdc4f59fc931a2e161fe0",
+      "size": 1016400
+    },
+    {
+      "path": "Ultima Online/anim4.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/anim4.mul",
+      "sha256": "dbc7aeab89e81a67387d36fbc8e6189ada4b10b6dc389f303ce080ba8b4b0866",
+      "size": 72255236
+    },
+    {
+      "path": "Ultima Online/anim5.idx",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/anim5.idx",
+      "sha256": "015584e160570c27d184db8d6f52566ed172c4b9f8fadcdafd7d0ecf504c4649",
+      "size": 951300
+    },
+    {
+      "path": "Ultima Online/anim5.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/anim5.mul",
+      "sha256": "28dbc10812addc370fa47f592b4ed6569fdc04d1c6412eac84aa756237ff598d",
+      "size": 62543404
+    },
+    {
+      "path": "Ultima Online/animdata.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/animdata.mul",
+      "sha256": "bfc3c57584d6bf9d67a2ca66066292635ea86fee8d504a4ac65927a1fdde7d25",
+      "size": 3167712
+    },
+    {
+      "path": "Ultima Online/art.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/art.mul",
+      "sha256": "e8c09afddc1c5f4176ba8e2e4ba1962969bad113ffe508441ea6a87ee5fc1ccb",
+      "size": 149498706
+    },
+    {
+      "path": "Ultima Online/artidx.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/artidx.mul",
+      "sha256": "3e9cec819ee90d52e523ece3d94ab101e1f7dd2adf5c7b95120137905d43af4a",
+      "size": 982608
+    },
+    {
+      "path": "Ultima Online/Body.def",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Body.def",
+      "sha256": "e80e0733522cee5a7342f32e8f1720d7c68cd967046bb2dab53a4f46375a3632",
+      "size": 4190
+    },
+    {
+      "path": "Ultima Online/Bodyconv.def",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Bodyconv.def",
+      "sha256": "87c038f5f1bbaea44186e774b1d825043db48c06f7d78aa9f81053bd62d341f3",
+      "size": 35176
+    },
+    {
+      "path": "Ultima Online/Client.cuo",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Client.cuo",
+      "sha256": "3542b4778ee0d0d739a97a7488a67c0a61c527391afe9febc7273fbc942e595c",
+      "size": 63
+    },
+    {
+      "path": "Ultima Online/entitled.def",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/entitled.def",
+      "sha256": "d85b890bf594e76834b58b4d392b74dc5e0e209f103ceb4f8616bfe0bd25a5aa",
+      "size": 4
+    },
+    {
+      "path": "Ultima Online/Equipconv.def",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Equipconv.def",
+      "sha256": "48af0411b81f49327c4b62d9d86d342d18cd8c74037d7c2b645f4b2cba4b4380",
+      "size": 8019
+    },
+    {
+      "path": "Ultima Online/gump.def",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/gump.def",
+      "sha256": "16123651e9ea6eec03e478782dcf6bece176f0b0134b414a026b0a15c0d8dc6a",
+      "size": 1404
+    },
+    {
+      "path": "Ultima Online/Gumpart.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Gumpart.mul",
+      "sha256": "91348107978af7cd6ce8f6e0db5105bf3f3662c0affebfdffdf074891e241808",
+      "size": 178951160
+    },
+    {
+      "path": "Ultima Online/Gumpidx.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Gumpidx.mul",
+      "sha256": "5ac791dcafb277557d0b632da62de22ef5c2ebc6fc495af0e727dd65c7aa9fa2",
+      "size": 786420
+    },
+    {
+      "path": "Ultima Online/hues.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/hues.mul",
+      "sha256": "e8e0bfb232e2e493558e7fd543b1b3969b2389f443f4926978de4ea6430a3c71",
+      "size": 265500
+    },
+    {
+      "path": "Ultima Online/login.cfg",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/login.cfg",
+      "sha256": "25cf4367d9350e065406948cc45248b819fab1e243cc705e48af16e961791f46",
+      "size": 31
+    },
+    {
+      "path": "Ultima Online/map0.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/map0.mul",
+      "sha256": "31e9e9ed053af2e5c61cc0374ff92ab8174f4a0db6cc5b7c29daf872566ca24a",
+      "size": 89915392
+    },
+    {
+      "path": "Ultima Online/mobtypes.txt",
       "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/mobtypes.txt",
       "sha256": "ad811d53e11aee5e63ca14f62c992a2babfcbcaa603a1045e89663ee3f80fde0",
       "size": 43577
     },
     {
-     "path": "Ultima Online/Body.def",
-      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Body.def",
-      "sha256": "e80e0733522cee5a7342f32e8f1720d7c68cd967046bb2dab53a4f46375a3632",
-      "size": 4190
+      "path": "Ultima Online/staidx0.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/staidx0.mul",
+      "sha256": "a4f7c953c1627bfaf8aa97868d8a22b09e408cab51d4f2463f329a4b49780b31",
+      "size": 5505024
+    },
+    {
+      "path": "Ultima Online/statics0.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/statics0.mul",
+      "sha256": "11fb0976499fb4cb3f261833e2f1518e0418b49b77b2f70e6e3d020c6d9da545",
+      "size": 20762238
+    },
+    {
+      "path": "Ultima Online/tiledata.mul",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/tiledata.mul",
+      "sha256": "405919444cb181bdba38a91f86e08f9dc580f8f0514d6c6eaa975233c7ca3a82",
+      "size": 3188736
+    },
+    {
+      "path": "Ultima Online/Uo.cfg",
+      "url": "https://raw.githubusercontent.com/KenshO08/BR_Launcher_Updates/refs/heads/main/Ultima%20Online/Uo.cfg",
+      "sha256": "f58312739da02dae3bfe7e4ebce80ca8dea0b57ace7c4424372f032a7457ad3c",
+      "size": 706
     }
   ]
 }
